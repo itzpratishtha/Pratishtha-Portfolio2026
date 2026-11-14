@@ -1,0 +1,18 @@
+export const SOCIAL_LINKS = {
+  name: "Pratishtha Somani",
+  title: "Computer Science Engineering Student | Aspiring Software Engineer | Problem Solver | Builder",
+  headline: "Building ideas into impactful digital experiences.",
+  intro: "From my brain, To your screen !",
+  philosophy: "Learn deeply. Build consistently. Make things that matter.",
+  college: "Poornima Institute of Engineering & Technology, Jaipur",
+  degree: "B.Tech in Computer Science Engineering (2024 – 2028)",
+  cgpa: "9.4 / 10",
+  location: "Jaipur, Rajasthan, India",
+  email: "pratishthasomani19@gmail.com",
+  github: "https://github.com/itzpratishtha",
+  linkedin: "https://www.linkedin.com/in/pratishtha-somani-5446012b7/",
+  leetcode: "https://leetcode.com/u/Pratishtha_somani/",
+  resumePdfUrl: "/resume-pratishtha.pdf",
+  profileImageUrl: "/images/pratishtha-profile.jpg",
+  availability: "Open to Software Engineering Internships & Opportunities",
+};
